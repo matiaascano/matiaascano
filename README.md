@@ -3,11 +3,6 @@
 
 <p>Bienvenidos! </br> Soy Matias, Full Stack developer de <b>Corrientes, Argentina</b> </p>
 
-<p><h3> Quien soy? </h3></p>
-<p> 🔭 Soy un entusiasta de saber como funciona todo, esta curiosidad, me llevo a buscar maneras de educarme acerca de la programación, y con esto llegar a graduarme de SoyHenry, como Full Stack Developer, con más ganas de seguir adqueriendo conocimientos, motivado desde el minuto cero, ya que siempre fui un amante de la computación. Puedo destacar de mi, a una persona simpatica, extrovertida, que se sabe manejar en un grupo de trabajo, que aporta todo su conocimiento, y cuando no es suficiente, mejor aun, ya que investigaría para resolver cualquier tipo de problemas.</p>
-
-<p> Me gusta decir, que estamos en un eterno proceso de aprendizaje, donde sabemos que todos los días aprendemos cosas nuevas, estamos en un constante movimiento, y en el camino que me encuentro hoy en día es en el de seguir creando proyectos, para seguir ampliando mi perfil de trabajo, y poder llegar a mi primer trabajo. </p>
-
 <p><h3> Who am I? </h3></p>
 <p>🔭  I am an enthusiast of knowing how everything works, this curiosity led me to look for ways to educate myself about programming, and with this I graduate from SoyHenry, as a Full Stack Developer, with more desire to continue acquiring knowledge, motivated from minute zero, since I was always a computer lover. I can highlight that I am a nice, extroverted person who knows how to manage in a work group, who contributes all his knowledge, and when it is not enough, even better, since he would investigate to solve any type of problem.</p >
 
